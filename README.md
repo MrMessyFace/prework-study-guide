@@ -1,12 +1,12 @@
-# Prework Study Guide Webpage
+# Prework Study Guide
 
 ## Description
 
-I created a study guide to help bootcamp students get started to learn about coding. It shows a few of my notes from my Prework learning to give a view of what learning about it will be like.
+I created a study guide to help bootcamp students get started to learn about coding. It shows a few of my notes from my Prework learning to give a view of what learning about it will be like. I used HTML, CSS, and basic JavaScript to create this page.
 
 ## Installation
 
-I used HTML, CSS, and basic JavaScript.
+No installation necessary.
 
 ## Usage
 
@@ -16,8 +16,15 @@ Each section contains notes for the four topics to be learned, HTML, CSS, JavaSc
 
 ## Credits
 
-[Repository](https://github.com/MrMessyFace/prework-study-guide) | [Live App](https://mrmessyface.github.io/prework-study-guide/)
+This project was created using instructions from the Prework Module of the Northwestern University Full Stack Coding Bootcamp.
 
 ## License
 
-Please refer to the LICENSE in the repo.
+![](https://img.shields.io/badge/license-MIT-brightgreen)
+
+## Helpful Links
+
+- [Repository](https://github.com/MrMessyFace/prework-study-guide)
+- [Live App](https://mrmessyface.github.io/prework-study-guide/)
+
+&copy; 2023 Jessie S. Galindo. All Rights Reserved.
