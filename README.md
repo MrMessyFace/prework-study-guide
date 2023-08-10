@@ -12,7 +12,7 @@ No installation necessary.
 
 Each section contains notes for the four topics to be learned, HTML, CSS, JavaScript, and Git. If you open the DevTools console, you can see the JavaScript running. It lists the topics we learned from prework and chooses one topic to study first.
 
-![Screenshot](./assets/images/prework-study-guide-screenshot.jpg)
+![Screenshot](./assets/images/prework-study-guide.jpg)
 
 ## Credits
 
