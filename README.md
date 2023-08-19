@@ -6,7 +6,7 @@ I created a study guide to help bootcamp students get started to learn about cod
 
 ## Installation
 
-No installation necessary.
+No installation necessary but you can clone the [repository](https://github.com/MrMessyFace/prework-study-guide) from GitHub to edit it and make your own version.
 
 ## Usage
 
